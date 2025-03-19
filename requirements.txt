@@ -1,0 +1,10 @@
+tiktoken 
+chromadb
+langchain
+flask
+GitPython
+python-dotenv
+langchain-community
+langchain-groq
+groq
+sentence-transformers
